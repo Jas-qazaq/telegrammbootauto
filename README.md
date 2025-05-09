@@ -22,7 +22,7 @@ pip install aiogram openai
 
 2. Создайте файл `.env` (или замените токены прямо в коде):
 ```
-API_TOKEN=ваш_токен_от_Telegram_BotFather
+API_TOKEN = '7699584928:AAGIRB0WM1Qyt89bAFaqHOgX2eSn6MnS-4w'
 OPENAI_API_KEY=ваш_API_ключ_OpenAI
 ```
 
