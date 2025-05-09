@@ -5,7 +5,7 @@
 
 ## Возможности
 - Автоматические ответы на вопросы клиентов
-- Интеграция с ChatGPT (GPT-3.5)
+- Интеграция с ИИ
 - Подходит для использования в e-commerce и поддержке клиентов
 
 ## Технологии
@@ -22,7 +22,7 @@ pip install aiogram openai
 
 2. Создайте файл `.env` (или замените токены прямо в коде):
 ```
-API_TOKEN = '7699584928:AAGIRB0WM1Qyt89bAFaqHOgX2eSn6MnS-4w'
+API_TOKEN = os.getenv(7519571159:AAHzZ0ojvxBRJdr9Iu_GSWf-0xULnS8hljE)
 OPENAI_API_KEY=ваш_API_ключ_OpenAI
 ```
 
