@@ -22,7 +22,7 @@ pip install aiogram openai
 
 2. Создайте файл `.env` (или замените токены прямо в коде):
 ```
-API_TOKEN = os.getenv(7519571159:AAHzZ0ojvxBRJdr9Iu_GSWf-0xULnS8hljE)
+API_TOKEN = 
 OPENAI_API_KEY=ваш_API_ключ_OpenAI
 ```
 
